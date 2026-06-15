@@ -1,0 +1,30 @@
+# 環境設定（認証情報を含む）
+.env
+secrets/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# ランタイム出力（SSOT・派生ファイル）
+journal_by_day/
+reflection_output/
+run_history/
+indexes/
+*.ndjson
+!src/thoughts_store/tests/**/*.ndjson
+
+# データファイル
+*.csv
+*.jsonl
+*.png
+*.jpg
+
+# パッチ・一時ファイル
+*.patch
+*.tmp
+*.bak

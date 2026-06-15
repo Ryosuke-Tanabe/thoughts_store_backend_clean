@@ -1,0 +1,5 @@
+click==8.1.7
+orjson==3.10.7
+python-dateutil==2.9.0.post0
+portalocker==2.10.1
+tzdata>=2024.1
