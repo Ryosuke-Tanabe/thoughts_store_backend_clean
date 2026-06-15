@@ -140,3 +140,9 @@ python src/thoughts_store/ssot/build_memory_map_from_events.py \
 ## ライセンス
 
 MIT
+
+## 設計思想について
+
+このシステムを作る過程で得た気づきを記事にまとめています。
+
+[記憶は保存するものじゃない——AI外部脳を作って失敗してわかったこと](https://note.com/moral_spirea2538/n/nda51308b710e)
